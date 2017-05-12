@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2017/05/aaaa.html"}
-if(x=="2"){xxx="/2017/05/bbbb.html"}
-if(x=="3"){xxx="/2017/05/cccc.html"}
-if(x=="4"){xxx="/2017/05/dddd.html"}
-if(x=="5"){xxx="/2017/05/eeee.html"}a_to_ve[i].href="https://safelink97.blogspot.com/2017/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="aaaa.html"}
+if(x=="2"){xxx="bbbb.html"}
+if(x=="3"){xxx="cccc.html"}
+if(x=="4"){xxx="dddd.html"}
+if(x=="5"){xxx="eeee.html"}a_to_ve[i].href="https://safelink977.blogspot.com/2017/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
